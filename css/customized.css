@@ -80,7 +80,6 @@ canvas {
 }
 .nav-search {
   padding: 10px;
-  width: 300px;
 }
 .log-content{
   margin: 0 auto;
@@ -88,9 +87,6 @@ canvas {
 
 @media (max-width: 767px){
   .log-content{
-    width: 100%;
-  }
-  .nav-search {
     width: 100%;
   }
 }
@@ -106,7 +102,7 @@ canvas {
     width: 50%;
   }
   .doc-section {
-    width: 70%;
+    width: 80%;
   }
   .doc-floater {
     position: fixed;
