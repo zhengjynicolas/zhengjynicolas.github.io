@@ -8,9 +8,8 @@ comments:   true
 categories: Tech
 thumbnail:  cogs
 tags:
- - JavaScript
- - Web Frontend
  - css
+ - Web Frontend
 ---
 
 CSS优先级如下：
