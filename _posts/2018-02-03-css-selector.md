@@ -15,9 +15,7 @@ tags:
 **ID选择器：**
 
 |选择器|例子|例子描述|CSS|
-
 |-|-|-|-|
-
 |[#id][1]|#firstname|选择id="firstname" 的所有元素。|1|
 
 
@@ -26,6 +24,7 @@ tags:
 
 
 **类选择器：**
+
 |选择器|例子|例子描述|CSS|
 |-|-|-|-|
 |[.class][2]|.intro|选择 class="intro" 的所有元素。|1|
@@ -35,6 +34,7 @@ tags:
 
 
 **属性选择器：**
+
 |选择器|例子|例子描述|CSS|
 |-|-|-|-|
 |[\[attribute\]][3] |[target]|选择带有 target 属性所有元素。|2|
@@ -50,6 +50,7 @@ tags:
 
 
 **伪类选择器：**
+
 |选择器|例子|例子描述|CSS|
 |-|-|-|-|
 |[:link][10]|a:link|选择所有未被访问的链接。|1|
@@ -86,6 +87,7 @@ tags:
 
 
 **元素选择器：**
+
 |选择器|例子|例子描述|CSS|
 |-|-|-|-|
 |[element][38]|p|选择所有 <p> 元素。|1|
@@ -100,13 +102,16 @@ tags:
 
 
 **通配符选择器：**
+
 |选择器|例子|例子描述|CSS|
 |-|-|-|-|
 |[\*][44]|\*|选择所有元素。|2|
 
 
 *CSS优先级*
+
 !important > 内嵌样式 > ID > class，伪类 ，属性选择 > 元素 > 继承，通配符。
+
 
   [1]: http://www.w3school.com.cn/cssref/selector_id.asp
   [2]: http://www.w3school.com.cn/cssref/selector_class.asp
