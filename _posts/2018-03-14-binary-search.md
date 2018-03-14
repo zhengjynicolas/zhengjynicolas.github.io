@@ -10,13 +10,13 @@ thumbnail:  cogs
 tags:
  - algorithm
 ---
-#####基本思想：
+##### 基本思想：
 
  1. 二分查找的前提是在有序元素列中进行查询，所以取元素列中间的元素`array[mid]`与要查找的元素比较。
  2. 如果查找的元素比中间位小（or大），则在中间位的左（or右）半段查找。
  3. 循环步骤1直到元素列头部与尾部重合
 
-#####代码实现：
+##### 代码实现：
 
     //递归
     public static int rec(int left, int right, int[] array, int data) {
