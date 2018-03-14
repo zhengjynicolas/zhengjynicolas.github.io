@@ -13,4 +13,4 @@ tags:
 
 Welcome to Joy's Blog.
 
-Welcome to my blog. I am Joy Zheng, a web frontend developer. Making this blog for learning and sharing. Hope you like here and maybe give me some of your advice. 
+Welcome to my blog. I am Joy Zheng, a web frontend developer. Built this blog for learning and sharing. Hope you like here and maybe give me some of your advice. 
