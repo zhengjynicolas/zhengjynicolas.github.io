@@ -39,12 +39,12 @@ tags:
     其实除了`Foo()`，`Function()`, `Object()`也是一样的道理。
  7. 原型对象也是对象啊，它的`__proto__`属性，又指向谁呢？
     
-    同理，指向它的构造函数的原型对象呗。这里是`Object.prototype`.
+    同理，指向它的构造函数的原型对象呗。这里是`Object.prototype`。
  8. `Object.prototype`的`__proto__`属性指向`null`。
     
 #### 总结：
 1. 对象有属性`__proto__`,指向该对象的构造函数的原型对象。
-2. 方法除了有属性`__proto__`,还有属性`prototype`，`prototype`指向该方法的原型对象
+2. 方法除了有属性`__proto__`,还有属性`prototype`，`prototype`指向该方法的原型对象。
 
 
 
