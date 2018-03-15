@@ -12,6 +12,7 @@ tags:
  - Web Frontend
 ---
 #### 理解JavaScript世界的一张重要的图：
+
 ![Thumper](https://images2017.cnblogs.com/blog/1235327/201709/1235327-20170913143257594-424466016.png)
 
 #### 对上面图的描述如下：
