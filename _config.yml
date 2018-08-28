@@ -7,7 +7,8 @@ url: "https://zhengjynicolas.github.io/"
 title_description: "Welcome to my blog. I am Joy Zheng, a web frontend developer. Built this blog for learning and sharing. Hope you like here and maybe give me some of your advice."
 title_image: "https://avatars2.githubusercontent.com/u/32067765?s=460&v=4"
 google_analytics: ""
-disqus_account: zhengjynicolas
+disqus_account: zhengjynicolas@hotmail.com
+disqus_forum_shortname: zhengjynicolas
 github_repository: https://github.com/zhengjynicolas/zhengjynicolas.github.io
 addthis_id: 
 post_limit: 5
@@ -21,7 +22,7 @@ linkedin_link:
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
-facebook_link:
+facebook_link: https://www.facebook.com/joy.zheng.7528
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"javascript:;\">Joy Zheng</a>"
